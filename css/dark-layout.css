@@ -1,0 +1,79 @@
+/* Jeydi Dark-Layout HTML Template */
+
+.pp-tooltip,
+.sec-title h2,
+.about-slide h2,
+.about-slide .text,
+.section-left-title,
+.about-slide .author,
+.skill-block .inner-box h3,
+.banner-section .content-column h1,
+.profile-column .inner-column h3,
+.profile-block .block-inner h4,
+.client-block .inner-box h3,
+.news-block .inner-box .image h3 a,
+.contact-section .info-column h2,
+.about-section .section-lower-text .rating,
+.apps-section .content-column .bold-text,
+.banner-section .content-column .bold-text,
+.main-header .language-box .language-list li,
+.web-section .content-column .project-detail,
+.news-section .more-posts .view-post,
+.contact-form .form-group .submit-btn,
+.contact-section .info-column .number,
+.contact-section .info-column .location,
+.web-section .prod-tabs .tab-btns .tab-btn,
+.contact-section .footer-bottom .footer-nav li a{
+	color:#ffffff;
+}
+
+.main-header .nav-toggler .line-one,
+.main-header .nav-toggler .line-two{
+	background-color:#ffffff;
+}
+
+#pp-nav li .active span,
+.pp-slidesNav .active span,
+#pp-nav li:hover span,
+.pp-slidesNav .active span{
+	border-color:#ffffff !important;
+	background-color:#ffffff !important;
+}
+
+#pp-nav span, .pp-slidesNav span{
+	border-color:#ffffff !important;
+}
+
+.sec-title .text,
+.skill-block .inner-box .text,
+.banner-section .content-column .text,
+.apps-section .content-column .text,
+.profile-block .block-inner .text,
+.client-block .inner-box .text,
+.web-section .content-column .text,
+.contact-section .info-column .text,
+.news-block .inner-box .image .post-meta li{
+	color:#94afc7;
+}
+
+.client-block .inner-box,
+.profile-column .inner-column,
+.skills-section .inner-container{
+	background-color:rgba(255,255,255,0.05);
+}
+
+.contact-section .inner-container,
+.clients-section .inner-container:before,
+.news-block .inner-box .image .overlay-box .overlay-inner{
+	background-color:#131d27;
+}
+
+.news-section:before{
+	display:none;
+}
+
+.contact-form .form-group input,
+.contact-form .form-group select,
+.contact-form .form-group textarea{
+	background:none;
+}

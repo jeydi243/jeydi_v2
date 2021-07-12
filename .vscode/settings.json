@@ -1,0 +1,9 @@
+{
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrapColumn": 250,
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.CustomBrowser": "firefox",
+    "editor.smoothScrolling": true,
+    "workbench.colorTheme": "Atom One Dark"
+}
